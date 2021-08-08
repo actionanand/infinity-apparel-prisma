@@ -1,0 +1,18 @@
+{
+  "name": "infinity-apparel-prisma",
+  "version": "1.0.0",
+  "description": "This is a GraphQL backend for infinity-apparel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anand Raja",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "1.17.4",
+    "prisma-binding": "2.3.12",
+    "prisma-client-lib": "1.34.0"
+  }
+}
